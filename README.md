@@ -3,11 +3,13 @@
 # About me
 
 - BS in CS from Illinois State University
-- Interests in Full-stack web dev
+- Full-Stack Programmer
+- Lifelong learner
 
 # Experiences
 
 - AI/ML Intern at Prallax Consulting
+- Research Assistant at Illinois State University
 
 # Let's connect
 

@@ -14,4 +14,3 @@
 - [LinkedIn](https://linkedin.com/in/charles-borromeo)
 - [Email](mailto:chaborrom@gmail.com)
 
-![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)

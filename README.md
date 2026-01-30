@@ -9,9 +9,9 @@
 
 - AI/ML Intern at Prallax Consulting
 
-[![My Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=chalesborromeo&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 # Let's connect
 
 - [LinkedIn](https://linkedin.com/in/charles-borromeo)
 - [Email](mailto:chaborrom@gmail.com)
+
+![Spotify](https://novatorem-kyzbk7wxl-bardiesel.vercel.app/api/spotify)

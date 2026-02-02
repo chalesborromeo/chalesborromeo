@@ -4,7 +4,7 @@
 
 - BS in CS from Illinois State University
 - Full-Stack Programmer
-- Lifelong learner
+- Tech Stack: C/C++, Go, JS, Python
 
 # Experiences
 
